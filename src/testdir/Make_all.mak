@@ -232,6 +232,7 @@ NEW_TESTS = \
 	test_mzscheme \
 	test_nested_function \
 	test_netbeans \
+	test_netrwPlugin \
 	test_normal \
 	test_number \
 	test_options \
@@ -494,6 +495,7 @@ NEW_TESTS_RES = \
 	test_mzscheme.res \
 	test_nested_function.res \
 	test_netbeans.res \
+	test_netrwPlugin.res \
 	test_normal.res \
 	test_number.res \
 	test_options.res \
